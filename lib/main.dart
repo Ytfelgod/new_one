@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
           // is not restarted.
 
           ),
-      home: const MyHomePage(title: 'QQQQQQQQQ'),
+      home: const MyHomePage(title: 'WAPRER'),
     );
   }
 }
